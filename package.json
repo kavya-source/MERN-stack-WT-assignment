@@ -1,9 +1,6 @@
 {
   "name": "mern-social",
-  "version": "2.0.0",
   "description": "A MERN stack based social media application",
-  "author": "Shama Hoque",
-  "license": "MIT",
   "keywords": [
     "react",
     "express",
@@ -13,9 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-social.git"
+    "url": "https://github.com/kavya-source/MERN-stack-WT-assignment"
   },
-  "homepage": "https://github.com/shamahoque/mern-social",
+  "homepage": "https://github.com/kavya-source/MERN-stack-WT-assignment",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
